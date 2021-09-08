@@ -1,0 +1,14 @@
+main {
+  max-width: 70ch;
+  padding: 2ch;
+  margin: auto;
+}
+
+#buttons {
+  margin-bottom: 8px;
+}
+
+#game {
+  background-color: lightblue;
+  border: 1px solid black;
+}

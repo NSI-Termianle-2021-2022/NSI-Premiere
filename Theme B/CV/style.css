@@ -1,0 +1,104 @@
+.orange{
+    color: rgb(250, 94, 4);
+}
+
+#en-tete{
+    padding: 3%;
+    background-size: 100%;
+    background-image: url(fond-banniere-technologie-formes-hexagonales-espace-texte_1017-22589.jpg);
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+}
+
+
+#banniere{
+    position: relative;
+    height: 3%;
+    width: 100%;
+}
+#barre{
+    position: relative;
+    margin-top: 20%;
+}
+
+body{
+    color: rgb(224, 224, 224);
+    padding: 1%;
+    font-family: Arial;
+    font-size: 100%;
+    background-color: rgb(5, 2, 36);
+}
+
+#photo{
+    position: relative;
+    float: left;
+    left: 0%;
+    max-width: 13%;
+    height: auto;
+}
+
+
+#titres{
+    position: relative;
+    float: left;
+    left: 2%;
+    vertical-align: middle;
+    margin-top: -1%;
+    color: rgb(224, 224, 224);
+}
+
+#contact{
+    color: rgb(224, 224, 224);
+    margin-top: -1%;
+    position: relative;
+    float: right;
+    text-align: justify;
+}
+
+.black{
+    color: black;
+}
+#details{
+    text-align: center;
+}
+
+#etudes{
+    background-color: rgb(5, 2, 36);
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    color: rgb(224, 224, 224);
+}
+
+#formations{
+    background-color: rgb(5, 2, 36);
+    text-align: center;
+    width: 50%;
+    float: right;
+    margin-right: 2%;
+    right: 0%;
+    position: absolute;
+
+    color: rgb(224, 224, 224);
+}
+
+#competences{
+    background-color: rgb(5, 2, 36);
+    text-align: center;
+    width: 48%;
+    clear: both;
+    position: absolute;
+    margin-top: 340px;
+    color: rgb(224, 224, 224);
+}
+
+#passions{
+    background-color: rgb(5, 2, 36);
+    text-align: center;
+    width: 48%;
+    clear: both;
+    position: absolute;
+    margin-top: 770px;
+    padding-bottom: 17px;
+    color: rgb(224, 224, 224);
+}

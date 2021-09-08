@@ -1,0 +1,51 @@
+
+
+hr{
+    border: 1px solid;
+    width: 100%;
+}
+
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+#recherche{
+    text-align: center;
+    margin-left: 350px;
+
+}
+
+#en-tete{
+    text-align: center;
+    width: max-content;
+}
+
+#log-sign{
+    margin-left: 260px;
+}
+
+#profile-pict{
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 100px;
+}
+
+#pres{
+    position: absolute;
+    margin-left: 200px;
+}
+
+#certif{
+    position: absolute;
+    float: left;
+    width: 15%;
+    height: 15%;
+}
+
+#co{
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 5px;
+}

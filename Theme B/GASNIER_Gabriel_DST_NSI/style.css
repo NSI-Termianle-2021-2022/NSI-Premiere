@@ -1,0 +1,49 @@
+
+.box-noir{
+	width: 50px;
+	height: 50px;
+	background-color: black;
+}
+.box-blanc{
+	width: 50px;
+	height: 50px;
+}
+
+.droite{
+	float: left;
+	margin-left: 50px;
+}
+
+.mini-box{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	
+	
+}
+
+.bas{
+	margin-top: 30px;
+}
+
+.drt{
+	margin-left: 5px;
+	
+}
+
+.white{
+	background-color: white;
+}
+
+.gauche{
+	margin-left: 30px;
+}
+
+.black{
+	background-color: black;
+}
+
+.haut{
+	margin-top: 5px;
+}
+

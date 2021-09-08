@@ -1,0 +1,29 @@
+body{
+    margin: auto;
+}
+
+.key{
+    margin: 3%;
+    margin-bottom: 1%;
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 3px solid;
+
+    
+
+}
+#clavier{
+    margin-top: auto;
+    
+}
+
+.niv{
+    margin-top: 1%;
+    margin: auto;
+}
+
+.touche{
+    border-color: blue;
+}
+
